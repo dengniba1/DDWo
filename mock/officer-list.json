@@ -1,0 +1,97 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "total": 100,
+    "pageSize": 10,
+    "currentPage": 2,
+    "list": [
+      {
+        "userInfo": {
+          "name": "样某某",
+          "photo": "https://img.alicdn.com/tfs/TB1nf.WjyqAXuNjy1XdXXaYcVXa-245-245.gif",
+          "realName": "已实名",
+          "workYears": 9,
+          "goodAt": "抵押贷款",
+          "powerLevel": "强",
+          "productCount": 5,
+          "moneyAcount": "2000",
+          "successRate": 80
+        },
+        "companyInfo": {
+          "name": "代迅网络信息技术（上海）有限公司",
+          "address": "上海松江泗泾勿忘路888号2楼201室",
+          "duty": "客户主任",
+          "region": "全上海",
+          "product": "新一代",
+          "limit": "1-30",
+          "rate": "6%",
+          "loanDate": "当天放款",
+          "authentication": "已认证"
+        },
+        "serviceInfo": {
+          "serviceLevel": 4.5,
+          "iconSize": 1,
+          "userPhoneNumber": "13599969988"
+        }
+      },
+      {
+        "userInfo": {
+          "name": "样某某",
+          "photo": "https://img.alicdn.com/tfs/TB1nf.WjyqAXuNjy1XdXXaYcVXa-245-245.gif",
+          "realName": "已实名",
+          "workYears": 9,
+          "goodAt": "抵押贷款",
+          "powerLevel": "强",
+          "productCount": 5,
+          "moneyAcount": "2000",
+          "successRate": 80
+        },
+        "companyInfo": {
+          "name": "代迅网络信息技术（上海）有限公司",
+          "address": "上海松江泗泾勿忘路888号2楼201室",
+          "duty": "客户主任",
+          "region": "全上海",
+          "product": "新一代",
+          "limit": "1-30",
+          "rate": "6%",
+          "loanDate": "当天放款",
+          "authentication": "已认证"
+        },
+        "serviceInfo": {
+          "serviceLevel": 4.5,
+          "iconSize": 1,
+          "userPhoneNumber": "13599969988"
+        }
+      },
+      {
+        "userInfo": {
+          "name": "样某某",
+          "photo": "https://img.alicdn.com/tfs/TB1nf.WjyqAXuNjy1XdXXaYcVXa-245-245.gif",
+          "realName": "已实名",
+          "workYears": 9,
+          "goodAt": "抵押贷款",
+          "powerLevel": "强",
+          "productCount": 5,
+          "moneyAcount": "2000",
+          "successRate": 80
+        },
+        "companyInfo": {
+          "name": "代迅网络信息技术（上海）有限公司",
+          "address": "上海松江泗泾勿忘路888号2楼201室",
+          "duty": "客户主任",
+          "region": "全上海",
+          "product": "新一代",
+          "limit": "1-30",
+          "rate": "6%",
+          "loanDate": "当天放款",
+          "authentication": "已认证"
+        },
+        "serviceInfo": {
+          "serviceLevel": 4.5,
+          "iconSize": 1,
+          "userPhoneNumber": "13599969988"
+        }
+      }
+    ]
+  }
+}
